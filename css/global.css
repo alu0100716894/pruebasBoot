@@ -39,12 +39,12 @@ top:0px;
 }
 
 .navbar-collapse {
-  background-color:#CFDEDF;
+  background-color:#8D9899;
   color:#131515;
   font-family:Arial, Helvetica, sans-serif;
 
 }
 
-.navbar-collapse navbar-nav li a {
+.navbar-collapse ul li a {
   color:#ffff;
 }
