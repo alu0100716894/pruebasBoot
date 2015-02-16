@@ -12,7 +12,6 @@ list-style:none;
 }
 .nav > li {
 float:left;
-color:#F20F2A;
 }
 .nav li a {
 
@@ -53,9 +52,4 @@ top:0px;
 
 li a {
   color:#131515;
-}
-
-.menu{
-  color: #131515;
-  font-size:"larger"
 }
