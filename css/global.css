@@ -1,16 +1,11 @@
-.menu{
-    list-style:none;
-  padding:0px;
-  margin:0px;
-}
-.menu li{
+.nav navbar-nav li{
   margin:0px;
   padding:0px;
   float:left;
   position:relative;
   box-shadow: 2px 2px 4px 1px #000;
 }
-.menu li a{
+.nav navbar-nav li a{
   display: block;
   width: 100px;
   height: 30px;
@@ -24,12 +19,12 @@
   border-left: 2px solid #333;
 
 }
-.menu li a:hover{
+.nav navbar-nav li a:hover{
   color:#CF3;
   background-color:#603;
 }
 
-.menu ul{
+.nav navbar-nav ul{
     position:absolute;
   left:10px;
   top:36px;
@@ -43,14 +38,14 @@
   -o-transition:opacity .35s ease .2s;
   visibility:hidden;
 }
-.menu ul li a{
+.nav navbar-nav ul li a{
   border-bottom:2px solid #333;
   border-left:none;
   display:block;
   text-align:left;
 }
 
-.menu li:hover ul{
+.nav navbar-nav li:hover ul{
     opacity:1;
   visibility:visible;
 }
