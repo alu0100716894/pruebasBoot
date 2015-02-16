@@ -12,6 +12,7 @@ list-style:none;
 }
 .nav > li {
 float:left;
+color:#F20F2A;
 }
 .nav li a {
 
@@ -46,12 +47,12 @@ top:0px;
 }
 
 .submenu{
-  color:#F20C10;
-  font-family:Arial, Helvetica, sans-serif;
   background-color:#D0CDCE;
 
 }
 
 li a {
   color:#131515;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:smaller;
 }
